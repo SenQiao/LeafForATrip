@@ -1,0 +1,8 @@
+peak_rating_id,name
+0,Past Peak
+1,Peak
+2,Weak Peak
+3,Partial
+4,Patchy
+5,Minimal
+6,No Change
