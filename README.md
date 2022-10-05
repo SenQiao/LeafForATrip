@@ -1,15 +1,15 @@
 # LeafForATrip
 
 **Goal of the Application**
-- Pick out the best trail around me in NC
+- Pick out the best trail to see autumn leaves
 
 **What will I need?**
 
-Storage Model
+1. Storage Model
 
-API Controller
+2. API Controller
 
-UI View
+3. UI View
 
 
 
