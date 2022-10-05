@@ -1,4 +1,4 @@
-# Leaf For A Trip
+# Leaf For A Trip :maple_leaf:
 
 **Goal of the Application**
 - Pick out the best trail to see autumn leaves
