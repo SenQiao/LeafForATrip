@@ -21,9 +21,9 @@ The Idea was to start with a basic MVC model. I first designed the data model an
 
 2. API Controller (How do I communicate with the data)
 	- Get Methods
-	- * *Create Methods* *
-	- * *Update Methods* *
-	- * *Delete Methods* *
+	- *Create Methods*
+	- *Update Methods*
+	- *Delete Methods*
 
 3. UI View (How do I interact with the data)
 	- Pyqt5
