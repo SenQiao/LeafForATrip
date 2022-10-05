@@ -1,4 +1,4 @@
-# LeafForATrip
+# Leaf For A Trip
 
 **Goal of the Application**
 - Pick out the best trail to see autumn leaves
