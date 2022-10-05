@@ -4,6 +4,7 @@
 - Pick out the best trail to see autumn leaves
 
 **Design Process**
+<br />
 The Idea was to start with a basic MVC model. I first designed the data model and the classes, then design the APIs needed, and then finally design with my wife the UI. Most of the time was allocated with planning and testing. The plan was to have maybe 15% of the time as coding.
 
 **What will I need?**
@@ -11,13 +12,13 @@ The Idea was to start with a basic MVC model. I first designed the data model an
 1. Storage Model (How do I store the data)
 	- Data Relationship
 		- Site
-		- ~~ ~~Weather~~ ~~
+		- ~~Weather~~
 		- Attraction
 		- Peak
 		- SiteAttraction
 		- SitePeak
 	- CSV files for simple storage (maybe sqlite later)
-	- Image
+	- Images
 
 2. API Controller (How do I communicate with the data)
 	- Get Methods
@@ -29,7 +30,7 @@ The Idea was to start with a basic MVC model. I first designed the data model an
 	- Pyqt5
 	- Display site images
 	- On hover display attraction and peak for each site
-	- ~~ ~~Interactive Map~~ ~~
+	- ~~Interactive Map~~
 
 **Basics Left to Add**
 
